@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2023/10/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/10/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="搭建个人博客是程序员的基本素养"><a href="#搭建个人博客是程序员的基本素养" class="headerlink" title="搭建个人博客是程序员的基本素养"></a>搭建个人博客是程序员的基本素养</h2><p>使用Hexo博客框架搭建自己的博客可以分为以下几个步骤：<br>安装Node.js：Hexo是基于Node.js的博客框架，首先需要安装Node.js。<br>安装Hexo：在命令行中输入以下命令安装Hexo：npm install hexo-cli -g。<br>创建博客目录：在自己喜欢的位置创建一个新的文件夹，作为博客的根目录。<br>初始化Hexo：在命令行中切换到博客根目录，输入以下命令初始化Hexo：hexo init。<br>安装所需的插件和主题：根据自己的需要安装所需的插件和主题，可以通过命令行输入以下命令安装插件：npm install hexo-plugin-name –save，安装主题可以参考主题的官方文档。<br>编写文章：在Hexo根目录下的source&#x2F;_posts文件夹中编写自己的文章，文章使用Markdown语法编写。<br>生成静态页面：在命令行中输入以下命令生成静态页面：hexo generate。<br>本地预览：在命令行中输入以下命令启动本地服务器预览博客：hexo server。<br>推送到远端：上传至GitHub仓库。</p><hr><h2 id="个人感悟"><a href="#个人感悟" class="headerlink" title="个人感悟"></a>个人感悟</h2><p>原来搭建一个自己的博客是如此的简单，感谢B站，感谢csdn！欢迎访问我的博客!当然目前这个博客网站功能十分不完善，网站主题也是照搬别人的，以后会改进的，现在能跑就行~</p><hr><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><p><a href="http://www.codesheep.cn/">www.codesheep.cn</a><br><a href="http://www.bilibili.com/video/BV1Yb411a7ty">www.bilibili.com/video/BV1Yb411a7ty</a><br><a href="http://www.yiyan.baidu.com/">www.yiyan.baidu.com</a><br><a href="http://www.iloveimg.com(图片裁剪)/">www.iloveimg.com(图片裁剪)</a><br><a href="https://gitcode.net/mirrors/maochunguang/black-blue?utm_source=csdn_github_accelerator%EF%BC%88%E4%B8%BB%E9%A2%98%E6%8F%90%E4%BE%9B%EF%BC%89">https://gitcode.net/mirrors/maochunguang/black-blue?utm_source=csdn_github_accelerator（主题提供）</a><br><a href="https://blog.csdn.net/zgd826237710/article/details/99671027%EF%BC%88%E5%90%8C%E4%B8%8A%EF%BC%89">https://blog.csdn.net/zgd826237710/article/details/99671027（同上）</a><br>nodejs.org（框架支持）<br>hexo.io(同上)</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>影视</title>
+      <link href="/movie/index.html"/>
+      <url>/movie/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
