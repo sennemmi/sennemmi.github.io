@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>网站更新日记02</title>
+      <link href="/2023/10/09/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E8%AE%B002/"/>
+      <url>/2023/10/09/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E8%AE%B002/</url>
+      
+        <content type="html"><![CDATA[<h2 id="主要更新内容"><a href="#主要更新内容" class="headerlink" title="主要更新内容"></a>主要更新内容</h2><p>1、更换了背景图，实现一图流；<br>2、设置了live2d桌宠（仅电脑端显示）；<br>3、搭建了chatGPT网站，按“chatGPT”即可跳转；<br>4、新增电子钟和页脚徽标；</p><h2 id="ps：chatGPT网站访问需要科学上网，使用chatGPT需要密码。"><a href="#ps：chatGPT网站访问需要科学上网，使用chatGPT需要密码。" class="headerlink" title="ps：chatGPT网站访问需要科学上网，使用chatGPT需要密码。"></a>ps：chatGPT网站访问需要科学上网，使用chatGPT需要密码。</h2><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><h2 id="1、https-space-bilibili-com-220757832-channel-collectiondetail-sid-8864692、https-qianchenggit-github-io-3、chatGPT-API由taobao提供"><a href="#1、https-space-bilibili-com-220757832-channel-collectiondetail-sid-8864692、https-qianchenggit-github-io-3、chatGPT-API由taobao提供" class="headerlink" title="1、https://space.bilibili.com/220757832/channel/collectiondetail?sid=8864692、https://qianchenggit.github.io/3、chatGPT API由taobao提供"></a>1、<a href="https://space.bilibili.com/220757832/channel/collectiondetail?sid=886469">https://space.bilibili.com/220757832/channel/collectiondetail?sid=886469</a><br>2、<a href="https://qianchenggit.github.io/">https://qianchenggit.github.io/</a><br>3、chatGPT API由taobao提供</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> update </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>网站更新日志01</title>
       <link href="/2023/10/06/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%9701/"/>
       <url>/2023/10/06/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%9701/</url>
@@ -39,11 +58,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[/* 首页文章卡片 */#recent-posts > .recent-post-item{  background:rgba(255, 255, 255, 0.8);}/* 首页侧栏卡片 */.card-widget{background:rgba(255, 255, 255, 0.8)!important;}/* 文章页面正文背景 */div#post{background: rgba(255, 255, 255, 0.8);}/* 分页页面 */div#page{background: rgba(255, 255, 255, 0.8);}/* 归档页面 */div#archive{background: rgba(255, 255, 255, 0.8);}/* 标签页面 */div#tag{background: rgba(255, 255, 255, 0.8);}/* 分类页面 */div#category{background: rgba(255, 255, 255, 0.8);}/* 页脚透明 */#footer{background: transparent!important;}/* 头图透明 */#page-header{background: transparent!important;}/*白天模式伪类遮罩层透明*/[data-theme="light"]#footer::before{    background: transparent!important;    }/*夜间模式伪类遮罩层透明*/[data-theme="dark"]#footer::before{    background: transparent!important;    }[data-theme="dark"]#page-header::before{    background: transparent!important;    }/*夜间模式页面背景设置为半透明*/[data-theme="dark"]div.recent-post-item{    background: rgba(0, 0, 0, 0.5)!important;    }[data-theme="dark"]#aside-content .card-widget{    background: rgba(0, 0, 0, 0.5)!important;    }[data-theme="dark"]div#post{    background: rgba(0, 0, 0, 0.5)!important;    }[data-theme="dark"]div#page{    background: rgba(0, 0, 0, 0.5)!important;    }[data-theme="dark"]div#archive{    background: rgba(0, 0, 0, 0.5)!important;    }[data-theme="dark"]div#tag{    background: rgba(0, 0, 0, 0.5)!important;}[data-theme="dark"]div#category{    background: rgba(0, 0, 0, 0.5)!important;}/*阅读模式*/.read-mode #aside-content .card-widget{    background: rgba(158, 204, 171, 0.5)!important;    }.read-mode div#post{    background: rgba(158, 204, 171, 0.5)!important;    }/*夜间阅读模式*/[data-theme="dark"].read-mode #aside-content .card-widget{        background: rgba(0, 0, 0, 0.5)!important;        color: #eeeeee;    }[data-theme="dark"]  .read-mode div#post{    background: rgba(0, 0, 0, 0.5)!important;    color: #eeeeee;    }#page-header::before{  background: transparent!important;}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -61,22 +80,11 @@
     
     
     <entry>
-      <title>影视</title>
-      <link href="/movie/index.html"/>
-      <url>/movie/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/* 首页文章卡片 */#recent-posts > .recent-post-item{  background:rgba(255, 255, 255, 0.8);}/* 首页侧栏卡片 */.card-widget{background:rgba(255, 255, 255, 0.8)!important;}/* 文章页面正文背景 */div#post{background: rgba(255, 255, 255, 0.8);}/* 分页页面 */div#page{background: rgba(255, 255, 255, 0.8);}/* 归档页面 */div#archive{background: rgba(255, 255, 255, 0.8);}/* 标签页面 */div#tag{background: rgba(255, 255, 255, 0.8);}/* 分类页面 */div#category{background: rgba(255, 255, 255, 0.8);}/* 页脚透明 */#footer{background: transparent!important;}/* 头图透明 */#page-header{background: transparent!important;}/*白天模式伪类遮罩层透明*/[data-theme="light"]#footer::before{    background: transparent!important;    }/*夜间模式伪类遮罩层透明*/[data-theme="dark"]#footer::before{    background: transparent!important;    }[data-theme="dark"]#page-header::before{    background: transparent!important;    }/*夜间模式页面背景设置为半透明*/[data-theme="dark"]div.recent-post-item{    background: rgba(0, 0, 0, 0.5)!important;    }[data-theme="dark"]#aside-content .card-widget{    background: rgba(0, 0, 0, 0.5)!important;    }[data-theme="dark"]div#post{    background: rgba(0, 0, 0, 0.5)!important;    }[data-theme="dark"]div#page{    background: rgba(0, 0, 0, 0.5)!important;    }[data-theme="dark"]div#archive{    background: rgba(0, 0, 0, 0.5)!important;    }[data-theme="dark"]div#tag{    background: rgba(0, 0, 0, 0.5)!important;}[data-theme="dark"]div#category{    background: rgba(0, 0, 0, 0.5)!important;}/*阅读模式*/.read-mode #aside-content .card-widget{    background: rgba(158, 204, 171, 0.5)!important;    }.read-mode div#post{    background: rgba(158, 204, 171, 0.5)!important;    }/*夜间阅读模式*/[data-theme="dark"].read-mode #aside-content .card-widget{        background: rgba(0, 0, 0, 0.5)!important;        color: #eeeeee;    }[data-theme="dark"]  .read-mode div#post{    background: rgba(0, 0, 0, 0.5)!important;    color: #eeeeee;    }#page-header::before{  background: transparent!important;}]]></content>
       
     </entry>
     
@@ -97,6 +105,17 @@
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>影视</title>
+      <link href="/movie/index.html"/>
+      <url>/movie/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
